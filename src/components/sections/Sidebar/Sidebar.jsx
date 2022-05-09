@@ -1,12 +1,9 @@
 import React from "react";
 import {
-  FaBehance,
-  FaDribbble,
   FaFacebookF,
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaSkype,
   FaTwitter,
 } from "react-icons/fa";
 import profile from "../../../images/profile.jpeg";

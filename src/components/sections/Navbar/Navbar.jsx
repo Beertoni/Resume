@@ -22,19 +22,19 @@ const navbarData = [
     title: "Tecnologias",
     to: "/services",
   },
-  {
-    id: 3,
-    title: "Works",
-    to: "/works",
-  },
-  {
-    id: 4,
-    title: "Blogs",
-    to: "/blogs",
-  },
+  // {
+  //   id: 3,
+  //   title: "Works",
+  //   to: "/works",
+  // },
+  // {
+  //   id: 4,
+  //   title: "Blogs",
+  //   to: "/blogs",
+  // },
   {
     id: 5,
-    title: "Contact",
+    title: "Contato",
     to: "/contact",
   },
 ];
@@ -57,12 +57,12 @@ const Navbar = () => {
         <Route path="/services">
           <Service />
         </Route>
-        <Route path="/works">
+        {/* <Route path="/works">
           <Portfolio />
-        </Route>
-        <Route path="/blogs">
+        </Route> */}
+        {/* <Route path="/blogs">
           <Blog />
-        </Route>
+        </Route> */}
         <Route path="/contact">
           <Contact />
         </Route>

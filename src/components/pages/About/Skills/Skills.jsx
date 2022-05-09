@@ -4,43 +4,38 @@ import SkillItem from "./SkillItem";
 const skillData = [
   {
     id: 1,
-    title: "Html, Css, Scss",
-    percentage: "95%",
+    title: "Html, Css",
+    percentage: "87%",
   },
   {
     id: 2,
-    title: "Bootstrap",
-    percentage: "98%",
-  },
-  {
-    id: 3,
-    title: "TailwindCSS",
+    title: "Javascript",
     percentage: "90%",
   },
   {
+    id: 3,
+    title: "ReactJS",
+    percentage: "85%",
+  },
+  {
     id: 4,
-    title: "Javascript",
-    percentage: "70%",
+    title: "Git, Github",
+    percentage: "78%",
   },
   {
     id: 5,
-    title: "ReactJS",
-    percentage: "70%",
+    title: "Node",
+    percentage: "73%",
   },
   {
     id: 6,
-    title: "ExpressJS",
-    percentage: "60%",
+    title: "Java",
+    percentage: "80%",
   },
   {
     id: 7,
-    title: "MongoDB",
-    percentage: "50%",
-  },
-  {
-    id: 8,
-    title: "Git, Github",
-    percentage: "80%",
+    title: "AWS",
+    percentage: "20%",
   },
 ];
 
